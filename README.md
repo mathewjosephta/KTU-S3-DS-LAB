@@ -1,1 +1,1 @@
-# S3-DS-LAB
+# KTU-S3-DS-LAB
